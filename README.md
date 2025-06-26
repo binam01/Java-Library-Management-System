@@ -25,9 +25,6 @@ A simple **Library Management System** built using **Java** and **Swing GUI**, f
 - `Library.java` – Manages books and users
 - `LibrarySystemGUI.java` – Main GUI program
 
-## 📷 Screenshot
-
-> *(Add screenshot of the GUI if possible for better presentation)*
 
 ## 📦 How to Run
 
